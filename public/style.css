@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@200;300;400;500;600;700&family=Ubuntu:ital,wght@1,500&display=swap');
+
+body{
+    background-color: rgb(32, 32, 32);
+    text-align: center;
+}
+
+.heading{
+    margin: 80px 0 40px 0;
+    font-family:'Ubuntu', sans-serif;
+    color: rgb(163, 131, 50);
+}
+.input{
+    height: 25px;
+    width: 350px;
+    border-radius: 30px;
+    border: none;
+    padding:20px 60px;
+    margin: 20px 0;
+    box-shadow: 7px 12px 20px rgb(163, 131, 50);
+    font-family:'Ubuntu', sans-serif;
+    font-size: 22px;
+    color: rgb(32, 32, 32) ;
+}
+
+.add{
+    height: 65px;
+    width: 100px;
+    border-radius: 30px;
+    border: none;
+    margin: 20px 20px;
+    font-family:'Ubuntu', sans-serif;
+    font-size: 22px;
+    color: rgb(32, 32, 32) ;
+    background-color: rgb(163, 131, 50);
+    cursor: pointer;
+}
+
+.list{
+    font-family:'Ubuntu', sans-serif;
+    color:  rgb(163, 131, 50);
+    font-size: 20px;
+    text-align: left;
+    margin:40px;
+    line-height: 1.5;
+}
